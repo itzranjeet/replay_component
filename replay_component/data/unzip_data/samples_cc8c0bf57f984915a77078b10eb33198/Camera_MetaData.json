@@ -1,0 +1,45 @@
+{
+    "start_date_time": "Tue Sep 15 13:07:35 2020",
+    "image_list": [
+        {
+            "image_name": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg",
+            "sequence": 1,
+            "frame_number": 1,
+            "timestamp": 1532402927612460,
+            "current_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402927612460.jpg",
+            "next_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928662460.jpg"
+        },
+        {
+            "image_name": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928662460.jpg",
+            "sequence": 2,
+            "frame_number": 14,
+            "timestamp": 1532402928662460,
+            "current_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928662460.jpg",
+            "next_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928112460.jpg"
+        },
+        {
+            "image_name": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928112460.jpg",
+            "sequence": 3,
+            "frame_number": 7,
+            "timestamp": 1532402928112460,
+            "current_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402928112460.jpg",
+            "next_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929162460.jpg"
+        },
+        {
+            "image_name": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929162460.jpg",
+            "sequence": 4,
+            "frame_number": 20,
+            "timestamp": 1532402929162460,
+            "current_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929162460.jpg",
+            "next_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929662460.jpg"
+        },
+        {
+            "image_name": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929662460.jpg",
+            "sequence": 5,
+            "frame_number": 26,
+            "timestamp": 1532402929662460,
+            "current_filename": "/home/kpit/Desktop/new_project/scenario_simulation/source/sample/data/ground_truth_sample_sweep/Mini_dataset/master/CAM_FRONT/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402929662460.jpg",
+            "next_filename": "null"
+        }
+    ]
+}

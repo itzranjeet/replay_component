@@ -1,0 +1,46 @@
+{
+    "video_list": [
+        {
+            "current": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_cc8c0bf57f984915a77078b10eb33198.zip",
+            "prev": "null",
+            "status": "data_dispatched",
+            "runner_uuid": "02affc52-b9a6-406f-ae41-72aa4817a274",
+            "session_uuid": "163778be-b93b-4b20-9ca6-d323ba2fbf07",
+            "scenario_uuid": "cc8c0bf57f984915a77078b10eb33198"
+        },
+        {
+            "current": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_dc8c0bf57f984915a77078b10eb33198.zip",
+            "prev": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_cc8c0bf57f984915a77078b10eb33198.zip",
+            "status": "data_dispatched",
+            "runner_uuid": "e43a9038-bd72-4297-b0cb-3c7dd4c6c53b",
+            "session_uuid": "4fbfb393-f74f-4419-b7b9-053865751aee",
+            "scenario_uuid": "dc8c0bf57f984915a77078b10eb33198"
+        },
+        {
+            "current": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_fc8c0bf57f984915a77078b10eb33198.zip",
+            "prev": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_dc8c0bf57f984915a77078b10eb33198.zip",
+            "status": "data_dispatched",
+            "runner_uuid": "f6c0308d-cf25-4250-8802-d31e28aa1e98",
+            "session_uuid": "19d6596a-19e2-4b55-a374-341cff6f9741",
+            "scenario_uuid": "fc8c0bf57f984915a77078b10eb33198"
+        },
+        {
+            "current": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_ec8c0bf57f984915a77078b10eb33198.zip",
+            "prev": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_fc8c0bf57f984915a77078b10eb33198.zip",
+            "status": "data_dispatched",
+            "runner_uuid": "e79c4b7b-5e7b-4cf9-a559-95858ae70f49",
+            "session_uuid": "ea216bcc-f0b1-43fa-bf1b-bfb35ca1ec00",
+            "scenario_uuid": "ec8c0bf57f984915a77078b10eb33198"
+        }
+    ],
+    "parameters": {
+        "test_point_id": 1,
+        "bench_id": 11,
+        "start_date_time": "26/08/2020 11:48:48",
+        "start_scene": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/test-data/samples_cc8c0bf57f984915a77078b10eb33198.zip",
+        "scheduler_uuid": "a9cec12b-2f29-44e2-bf87-1c32d8db0282"
+    },
+    "bench_dump_location": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/bench-data/bench1",
+    "bench_output_location": "/home/shubham/Desktop/new_project/scenario_simulation/source/sample/data/bench-output/bench1",
+    "sensor": "Camera"
+}

@@ -1,0 +1,13 @@
+{
+  "VERSION": "1.0.5.11811",
+  "SECRET_KEY": "9583ab3c7b46619bf457747609f3ec95",
+  "LOG_FILE": "app.log",
+  "BENCH_DATA_DIRECTORY": "/home/jesmij/ros_ws/src/replay_component/data/bench_input_output/bench_input",
+  "BUNDLE_BENCH_FILE_LOCATION" : "/home/jesmij/ros_ws/src/replay_component/data/bench_input_output/bench_output",
+  "TCP_IP":"localhost",
+  "PORT":"5005"
+}
+
+
+
+

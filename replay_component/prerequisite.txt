@@ -1,0 +1,14 @@
+#Go to config folder
+1. Open config.json
+- update "BENCH_DATA_DIRECTORY": "Bench input path"
+- update  "BUNDLE_BENCH_FILE_LOCATION" : "Bench output path"
+
+2. Open input.csv
+- update input images paths(Line #1)
+- update unzip paths(Line #2)
+
+#Go to scripts
+1. Open config.py
+-  update config.json file path (visit config folder)
+
+#Place the input.zip in data folder 

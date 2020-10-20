@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="hostname" default="127.0.0.1" />
+    <arg name="rvizConf" default="$(find replay_component)/rviz/conf.rviz" />
+    <arg name="input" default="$(find replay_component)/config/input.csv" />
+    <node name="Node5" pkg="replay_component" type="Node5" args="$(arg hostname)" output="screen" />
+    <node name="Node6" pkg="replay_component" type="Node6" output="screen" />
+    <node name="Node1" pkg="replay_component" type="Node1" args="$(arg input)" output="screen" />
+    <node name="Node3" pkg="replay_component" type="Node3" output="screen" />
+    <node name="nodeRviz" pkg="rviz" type="rviz" args="-d $(arg rvizConf)" />
+</launch>
+
+<!-- roslaunch replay_component start.launch -->
+
